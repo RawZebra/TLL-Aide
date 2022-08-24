@@ -2,8 +2,6 @@ import discord
 import responses
 import os
 from PIL import Image, ImageDraw, ImageFont
-import requests
-from io import BytesIO
 import urllib
 
 async def send_message(message, user_message, is_private):
@@ -92,7 +90,7 @@ def run_discord_bot():
       f.close()
       my_file = open("SalesData.txt", "w")
       my_file.write(ye + "\n")
-      my_file.write("Second Line")
+      my_file.write("tesing")
       my_file = open("SalesData.txt")
 
       content = my_file.read()
@@ -100,6 +98,8 @@ def run_discord_bot():
       my_file.close()
 
       print(content)
+      
+      await message.channel.send('Added "testing" to SalesData.txt')
       
     await send_message(message, user_message, is_private=False)
     
