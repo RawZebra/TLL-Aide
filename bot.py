@@ -70,7 +70,7 @@ def run_discord_bot():
       entityName = toReturn.decode("utf-8").split('=')
       
       print(entityName[1])
-      urllib.request.urlretrieve(f'https://github.com/RawZebra/TheLostLandscapes_data/raw/main/Images/{iconSplit}.png',"ico.png")
+      urllib.request.urlretrieve(f'https://github.com/RawZebra/TheLostLandscapes_data/raw/main/Images/{iconSplit}.png',"Images/ico.png")
 
       font = ImageFont.truetype('Misc/font.ttf', 40)
       bg = Image.open('Images/BG.png')
