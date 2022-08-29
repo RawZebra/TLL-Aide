@@ -1,0 +1,8 @@
+
+9387307984326366;everyone;Test message;test text;url@https://media.discordapp.net/attachments/1011709716663115786/1013727486519029790/dfsdfsdfsdf.png
+7376010664070054;everyone;heheheha;poopie;url@https://cdn.discordapp.com/attachments/1011709716663115786/1013727486519029790/dfsdfsdfsdf.png;Monsters/Monster_toejammer;diamonds@10
+577508053783635;everyone;what the fuck;ampgusampgus;url@https://media.discordapp.net/attachments/768142323158614096/1013776469937356890/Screenshot_20220822-214330_YouTube.jpg?width=1440&height=648
+moth;everyone;This is a moth;Moth;url@https://media.discordapp.net/attachments/1013746681096974429/1013746796238999582/unknown-51-1.png
+d-7457281855718613;everyone;Click here for 1,000,000 free diamonds!;lol;icon@https://cdn.discordapp.com/attachments/701120989517316109/1013798504793129092/IMG_3227.png
+d-9075774299456032;everyone;you ded;very dead;icon@dayofthedead
+7995564297511749;everyone;Some crazy promotion: \nGet a monster for 50% off right now!;There is an event happening right now! Probably in real life or something. \nSo to celebrate that event, we are making a promotion. Get all of your monsters for 50% off right now or something like that idk this is just placeholder text for the message so I can see how it would look with a lot ot text.\nAlso get them diamonds cuz this message has a reward!\nThat's right a reward. How lucky are you!;url@https://cdn.discordapp.com/attachments/1011709716663115786/1013816257163825194/spore_A.png;diamonds@100;Monsters/Monster_tweedle
