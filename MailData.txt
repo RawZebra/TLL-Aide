@@ -1,4 +1,6 @@
 
+test;everyone;Heheheha;PoopieTest;icon@pride;diamonds@5;Monsters/Monster_dulsylvan;Monsters/Monster_varrow;Monsters/Monster_banno;Vorted@10
+
 9387307984326366;everyone;Test message;test text;url@https://media.discordapp.net/attachments/1011709716663115786/1013727486519029790/dfsdfsdfsdf.png
 7376010664070054;everyone;heheheha;poopie;url@https://cdn.discordapp.com/attachments/1011709716663115786/1013727486519029790/dfsdfsdfsdf.png;Monsters/Monster_toejammer;diamonds@10
 577508053783635;everyone;what the fuck;ampgusampgus;url@https://media.discordapp.net/attachments/768142323158614096/1013776469937356890/Screenshot_20220822-214330_YouTube.jpg?width=1440&height=648
