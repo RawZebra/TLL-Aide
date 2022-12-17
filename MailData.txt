@@ -1,5 +1,5 @@
 
-test;everyone;Heheheha;PoopieTest;icon@zebra;diamonds@5;Monsters/Monster_dulsylvan;Monsters/Monster_varrow;Monsters/Monster_banno;Vorted@10
+test;everyone;Heheheha;PoopieTest;icon@zebra;diamonds@5;Monsters/Monster_dulsylvan;Monsters/Monster_varrow;Monsters/Monster_banno;Vortex@10
 
 9387307984326366;everyone;Test message;test text;url@https://media.discordapp.net/attachments/1011709716663115786/1013727486519029790/dfsdfsdfsdf.png
 7376010664070054;everyone;heheheha;poopie;url@https://cdn.discordapp.com/attachments/1011709716663115786/1013727486519029790/dfsdfsdfsdf.png;Monsters/Monster_toejammer;diamonds@10
