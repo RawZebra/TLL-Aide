@@ -2,4 +2,4 @@
 intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (sites.google.com/view/msm-tll/home). Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500
 
 
-kill;everyone;Clear data time;Click this here button to reset all your data!;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
+kill2;everyone;Clear data time;Click this here button to reset all your data!;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
