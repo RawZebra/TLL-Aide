@@ -2,7 +2,7 @@
 intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (sites.google.com/view/msm-tll/home). Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500
 
 hahahh;MUDNDEHAOXRZTNATWBAZARSXGJ;Here are some diamonds ,Cam;Quick way to get rich!;icon@present;diamonds@1000;foodB@50000;Vortex@100;Wool@100
-hahahh4;MUDNDEHAOXRZTNATWBAZARSXGJ;Here are some items ,Cam;Elephant fart;icon@present;Relic@200
+hahahh5;MUDNDEHAOXRZTNATWBAZARSXGJ;Here are some items ,Cam;Elephant fart;icon@present;Rock@100
 
 hahahh3;QTKUPYKZWXWVXAJKQUKQZLYSTW;Here are some diamonds ,Cam;Quick way to get rich!;icon@present;diamonds@100000;foodB@5000000;Vortex@10000
 
