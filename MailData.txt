@@ -12,7 +12,7 @@ hahahh3;QTKUPYKZWQUKQZLYSTW;Here are some diamonds ,Cam;Quick way to get rich!;i
 
 kife3;MSSGSFRDPLFBEPJKIROO;Korzhik;Muhahahahaha;icon@present;Monsters/Monster_knife@15
 
-uddddddd;LYKKQHTJFCGLPGQNEANAPAVEaPF;Uksus Gay;Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay;icon@present;Wool@200
+UksusGay;LYKKQHTJFCGLPGQNEANAPAVEaPF;Uksus Gay;Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay;icon@present;diamonds@20000;Wool@200;BlueLog@200;Vortex@200;Rock@200;LVL@17;coins@100000
 
 kill4;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 kill3;acBXBLOVAhYXKCfERQSAHicKbHMGiYeLZMYB;Clear data time;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
