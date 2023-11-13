@@ -20,6 +20,6 @@ kill3;acBXBLOVAhYXKCfERQSAHicKbHMGiYeLZMYB;Clear data time;Click this here butto
 OndrGoesNow4;BHEVRSAUQGAEONHJATPVOL;Uksus Gay;Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay;icon@present;diamonds@20000;coins@20000
 KomokMomneyDebr3;QTKUPYKZWXWVXAJKQUKQZLYSTW;Uksus Gay;Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay;icon@present;coins@2047737616
 
-ToVizgemu3;QUORZAdZJWCCQPIdDTgdEdDEEbVZaOgEEEeQ;Для Визгему;Мы очень рады видеть, что вам нравится игра. Вот подарки в знак благодарности. Мы приглашаем вас на наш сервер Discord, чтобы присоединиться к турбине "TLL RELEASE STAGE".\nВы можете присоединиться к нашему серверу через официальный канал Raw Zebra на YouTube в описании к любому видео.\n-RawZebra;icon@present;diamonds@50;Relic@50;Monsters/Monster_knife@10@@
+ToVizgemu5;QUORZAdZJWCCQPIdDTgdEdDEEbVZaOgEEEeQ;Для Визгему;Мы очень рады видеть, что вам нравится игра. Вот подарки в знак благодарности. Мы приглашаем вас на наш сервер Discord, чтобы присоединиться к турбине "TLL RELEASE STAGE".\nВы можете присоединиться к нашему серверу через официальный канал Raw Zebra на YouTube в описании к любому видео.\n-RawZebra;icon@present;diamonds@50;Relic@50;Monsters/Monster_knife@10@@
 
 
