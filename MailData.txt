@@ -6,9 +6,9 @@ hahahhfg;MUDNDEHAOXRZTNATWBAZARSXGJ;Here are some items ,Cam;Elephant fart;icon@
 
 yesyesyseyseyhf;MUDNDEHAOXRZTNATWBAZARSXGJ;Here are some items ,Cam;Elephant fart;icon@present;coins@2047737616
 
-LDJHDaNZIXCNSQRSaFBWFVTIYJcYM;MUDNDEHAOXRZTNATWBAZARSXGJ;Here are some items ,Cam;Elephant fart;icon@present;diamonds@300
+LDJHDaNZIXCNSQRSaFBWFVTIYJcYM;LDJHDaNZIXCNSQRSaFBWFVTIYJcYM;Here are some items ,Cam;Elephant fart;icon@present;diamonds@300
 
-hahahh3;QTKUPYKZWXWVXAJKQUKQZLYSTW;Here are some diamonds ,Cam;Quick way to get rich!;icon@present;diamonds@100000;foodB@5000000;Vortex@10000
+hahahh3;QTKUPYKZWQUKQZLYSTW;Here are some diamonds ,Cam;Quick way to get rich!;icon@present;diamonds@100000;foodB@5000000;Vortex@10000
 
 kill2;everyone;Clear data time;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 kill3;acBXBLOVAhYXKCfERQSAHicKbHMGiYeLZMYB;Clear data time;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
