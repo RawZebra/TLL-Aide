@@ -5,5 +5,5 @@ ResetAllAccounts;everyone;Clear data;Click this here button to reset all your da
 
 intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (sites.google.com/view/msm-tll/home). Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500
 
-intro3;DNVRVJOOVKVbZFUDLbINFVIBWYPLYJ;!;Fart;icon@new;diamonds@10000;foodB@50000;LVL@5;LVL@4;xp@36000;Rock@200;Wool@100;BlueLog@200
+Exclaim;DNVRVJOOVKVbZFUDLbINFVIBWYPLYJ;!;Fart;icon@new;diamonds@10000;foodB@50000;LVL@5;LVL@4;xp@36000;Rock@200;Wool@100;BlueLog@200
 
