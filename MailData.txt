@@ -1,25 +1,8 @@
+kill5;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
+
+
+
 
 intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (sites.google.com/view/msm-tll/home). Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500
-
-hahahh;MUDNDEHAOXRZTNATWBAZARSXGJ;Here are some diamonds ,Cam;Quick way to get rich!;icon@present;diamonds@1000;foodB@50000;Vortex@100;Wool@100
-hahahhfg;MUDNDEHAOXRZTNATWBAZARSXGJ;Here are some items ,Cam;Elephant fart;icon@present;Rock@100
-
-yesyesyseyseyhf;MUDNDEHAOXRZTNATWBAZARSXGJ;Here are some items ,Cam;Elephant fart;icon@present;coins@2047737616
-
-LDJHDaNZIXCNshaterputM;LDJHDaNZIXCNSQRSaFBWFVTIYJcYM;Here are some items ,Cam;Elephant fart;icon@present;diamonds@300
-
-hahahh3;QTKUPYKZWQUKQZLYSTW;Here are some diamonds ,Cam;Quick way to get rich!;icon@present;diamonds@100000;foodB@5000000;Vortex@10000
-
-kife3;MSSGSFRDPLFBEPJKIROO;Korzhik;Muhahahahaha;icon@present;Monsters/Monster_knife@15
-
-UksusGayYesmuhahaha2;LYKKQHTJFCGLPGQNEANAPAVEaPF;Uksus Ne Gay;HMMMMMM;icon@present;diamonds@20000;Wool@200;BlueLog@200;Vortex@200;Rock@200;LVL@17;coins@100000
-
-kill4;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
-kill3;acBXBLOVAhYXKCfERQSAHicKbHMGiYeLZMYB;Clear data time;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
-
-OndrGoesNow4;BHEVRSAUQGAEONHJATPVOL;Uksus Gay;Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay;icon@present;diamonds@20000;coins@20000
-KomokMomneyDebr3;QTKUPYKZWXWVXAJKQUKQZLYSTW;Uksus Gay;Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay Uksus Gay;icon@present;coins@2047737616
-
-ToVizgemhahahah;QUORZAdZJWCCQPIdDTgdEdDEEbVZaOgEEEeQ;Для Визгему;Мы очень рады видеть, что вам нравится игра. Вот подарки в знак благодарности. Мы приглашаем вас на наш сервер Discord, чтобы присоединиться к турбине "TLL RELEASE STAGE".\nВы можете присоединиться к нашему серверу через официальный канал Raw Zebra на YouTube в описании к любому видео.\n-RawZebra;icon@present;diamonds@50;Relic@50;Monsters/Monster_knife@10
 
 
