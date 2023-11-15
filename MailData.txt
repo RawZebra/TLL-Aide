@@ -1,4 +1,4 @@
-ResetAllAccounts;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
+ResetAllAccounts1;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
 
 
