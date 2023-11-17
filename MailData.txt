@@ -1,5 +1,3 @@
-patch1;YFCDRdgRDHCSFggaTANJMWNWGKIiRVRgAOUNQ;New Monster: Jastanaw!;Hey there- we've added a new monster to Gamma Water Island, the Jastanaw. It can be purchased using Jewels, one of the many new items that spawn across the islands now. These include Cataliszt Fur, Jewels, Golden Eggs, Relics, Dew, Strawberries, and Fabric! PLEASE NOTE THAT THIS UPDATE AND THE NEW MONSTER JASTANAW ARE NOT CURRENTLY AVALIABLE ON THE MAC VERSION OF TLL. This will be avaliable to Mac players in the next manual download update. Happy Monstering!;icon@newspaper;diamonds@50
-
 ResetAllAccounts1;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
 
@@ -24,3 +22,4 @@ Toot;PXPSNYPYSGAMUUBHbbbKDAVCcQGBY;hahaha!;Tsfsdfat dfsdfndfsdfbe;icon@gift;coin
 
 TROX;UeQeBCPMOHUNNIVhHNhFZGJGINbeWIOICAD;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
+patch1;everyone;New Monster: Jastanaw!;Hey there- we've added a new monster to Gamma Water Island, the Jastanaw. It can be purchased using Jewels, one of the many new items that spawn across the islands now. These include Cataliszt Fur, Jewels, Golden Eggs, Relics, Dew, Strawberries, and Fabric! PLEASE NOTE THAT THIS UPDATE AND THE NEW MONSTER JASTANAW ARE NOT CURRENTLY AVALIABLE ON THE MAC VERSION OF TLL. This will be avaliable to Mac players in the next manual download update. As well, there is currently a bug where this monster does not sing, but it will be repaired very soon. Happy Monstering!;icon@newspaper;diamonds@50
