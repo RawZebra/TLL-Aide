@@ -1,3 +1,7 @@
+ToVizgemuAgain;YFCDRdgRDHCSFggaTANJMWNWGKIiRVRgAOUNQ;Для Визгему II;Привет, Визгему!\n\nНадеюсь, бутерброды того стоили, ха-ха!\n\nЯ отправил вам немного игровой валюты в качестве компенсации. Может быть, она поможет восстановить часть потерянного прогресса. В следующий раз будьте осторожнее с бутербродами и пюрешкой!\n\nУдачи в восстановлении и приятной игры!\n\nRaw Zebra\n\nП.С. Вашу обсерваторию уже можно активировать.\n;url@https://yt3.googleusercontent.com/hTM6KvOhK8tLYDffri_lim393HpvykG407UjhmGfEnk_YZ8AgVE-CBLZ_etibTRe4PN-JRNq=s176-c-k-c0x00ffffff-no-rj;diamonds@70;Relic@40;stars@400;Monsters/Monster_jamboree_undof@10@
+
+
+
 ResetAllAccounts1;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
 
