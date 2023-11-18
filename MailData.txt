@@ -15,7 +15,7 @@ patch1_v2;everyone;New Update (0.8);Hey there- we've added a new update, bringin
 
 TroxRelease2;everyone;T-Rox on Noramba Desert;Hey there people! T-Rox is available on Noramba Desert for 3 Vortexes. Happy Monstering!;icon@new
 
-mpg;CQTMHZZYDMQDFBbBYMBNSYXcWWcULO;A Gift for MPG;Hiya there! Welcome to MSM:TLL- its a pleasure to have you playing! Here's some fun treats to make your playing of the game a little easier (and within video length). Good luck! - Azu and Raw;icon@bow;diamonds@250000;stars@250;FoodB@500000;Food@10000;Vortex@100;Monsters/Monster_scaratar@1@
+mpg;CQTMHZZYDMQDFBbBYMBNSYXcWWcULO;A Gift for MPG;Hiya there! Welcome to MSM:TLL- its a pleasure to have you playing! Here's some fun treats to make your playing of the game a little easier (and within video length). Good luck! - Azu and Raw;icon@bow;diamonds@250000;stars@250;foodB@500000;food@10000;Vortex@100;Monsters/Monster_scaratar@1@
 
 
 
