@@ -8,6 +8,7 @@ ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to res
 intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (sites.google.com/view/msm-tll/home). Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500
 
 
+fix;APKGUMWEYAGWbXYbRaXObMCHGPEZJ;Level Reset Undo;If this happened to you collect this Do not  in the future. ;icon@live;LVL@8
 
 
 smee52;everyone;Level Reset;If your level goes above 25 and just reads "Level" or Level 26 your game breaks. If this happened to you collect this, otherwise do not. Do not go above level 24 in the future. ;icon@live;LVL@-25
