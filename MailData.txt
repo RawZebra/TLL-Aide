@@ -1,6 +1,6 @@
 ResetAllAccounts1-dontannounce;everyone;Clear data;Click this here button to reset all your data in case something went wrong! Don't press this unless you have an issue.;url@https://media.discordapp.net/attachments/874596516063490078/1151348049361260614/Cross.png;Clear
 
-intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (https://sites.google.com/view/msm-tll/home/tll-quickstart). Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500
+intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website through the button below!Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500;URL_LINK@Visit Tutorial Site@https://sites.google.com/view/msm-tll/home/tll-quickstart
 
 Rock;WbYKZGXBNOVaVUgdgUSgZBDSHVTdCXOEOKYhk;Happy Birthday!;Happy Birthday jackotrap!;icon@new;diamonds@200;stars@500;foodB@5000;Log@50
 
