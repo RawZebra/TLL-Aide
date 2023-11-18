@@ -26,7 +26,7 @@ patch1_v2;everyone;New Update (0.8);Hey there- we've added a new update, bringin
 
 TroxRelease2;everyone;T-Rox on Noramba Desert;Hey there people! T-Rox is available on Noramba Desert for 3 Vortexes. Happy Monstering!;icon@newspaper
 
-TDiamonds;HlkmYGglPRTlAfSDcVdElPfeHXCQJbaMLgTOMdI;Bebrik;Almazi;icon@gift;diamonds@10
+test_hahahhaha;QUORZAdZJWCCQPIdDTgdEdDEEbVZaOgEEEeQ;Test;test;icon@gift;URL_LINK@Visit Website@https://sites.google.com/d/1M2TR3BxDCTo1zwtevyPwCtoQCrfSKBek/p/1pVRAFCf5RB5fMUdTxMjbDvu63_z5hR2b/edit
 
 ToVizgemuAgain;HeBkdfYVemBClGRKQfmINPYfAXRBTYZbPhRIlZH;Для Визгему II;Привет, Визгему!\nНадеюсь, бутерброды того стоили, ха-ха!\nЯ отправил вам немного игровой валюты в качестве компенсации. Может быть, она поможет восстановить часть потерянного прогресса. В следующий раз будьте осторожнее с бутербродами и пюрешкой!\nУдачи в восстановлении и приятной игры!\n\nRaw Zebra\nП.С. Вашу обсерваторию уже можно активировать.\n\n;url@https://yt3.googleusercontent.com/hTM6KvOhK8tLYDffri_lim393HpvykG407UjhmGfEnk_YZ8AgVE-CBLZ_etibTRe4PN-JRNq=s176-c-k-c0x00ffffff-no-rj;diamonds@70;Relic@40;stars@400;Monsters/Monster_jamboree_undof@10@
 
