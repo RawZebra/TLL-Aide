@@ -10,7 +10,7 @@ intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing 
 
 
 
-smeep2;everyone;Level Reset;If your level goes above 25 and just reads "Level" or Level 26 your game breaks. If this happened to you collect this, otherwise do not. Do not go above level 24 in the future. ;icon@live;LVL@-25
+smee52;everyone;Level Reset;If your level goes above 25 and just reads "Level" or Level 26 your game breaks. If this happened to you collect this, otherwise do not. Do not go above level 24 in the future. ;icon@live;LVL@-25
 
 Rock;WbYKZGXBNOVaVUgdgUSgZBDSHVTdCXOEOKYhk;Happy Birthday!;Happy Birthday jackotrap!;icon@new;diamonds@200;stars@500;foodB@5000;Log@50
 wabeebadfood;WbYKZGXBNOVaVUgdgUSgZBDSHVTdCXOEOKYhk;Food;Sorry bout the food!;icon@new;food@6000000
