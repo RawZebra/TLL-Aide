@@ -11,7 +11,7 @@ ToVizgemuAgain;HeBkdfYVemBClGRKQfmINPYfAXRBTYZbPhRIlZH;Для Визгему II;
 
 
 
-patch1_v2;everyone;New Update (0.8);Hey there- we've added a new update, bringing many things, including a new monster to Gamma Water Island, the Jastanaw. It can be purchased using Jewels, one of the many new items that spawn across the islands now. These include Cataliszt Fur, Jewels, Golden Eggs, Relics, Dew, Stralleberries, and Fabric! If you haven't yet, download the new update on our website at sites.google.com/view/msm-tll/home to play! Happy Monstering!;icon@newspaper;diamonds@50
+patch2;everyone;New Update (0.9);Hey there- we've added a new update, bringing new paths to Candy Island and adding some quality of life features. If you haven't yet, download the new update on our website at https://sites.google.com/view/msm-tll/download to play! As well, due to some tweaking of the game, a few people's T-Roxes on Noramba Desert became voidcorns. Please help yourselves to a free T-Rox as compensation (youll need to open this mail message on Desert to claim it!) Happy Monstering!;icon@newspaper;diamonds@25;Monsters/Monster_trox@1
 
 mpg;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for MPG;Hiya there! Welcome to MSM:TLL- its a pleasure to have you playing! Here's some fun treats to make your playing of the game a little easier (and within video length). Good luck! - Azu and Raw;icon@bow;diamonds@250000;stars@250;foodB@500000;coins@100000000;Vortex@100;Monsters/Monster_scaratar@1
 
