@@ -17,7 +17,7 @@ mpg;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for MPG;Hiya there! Welcome t
 
 
 
-ContestWinner;PCOXVFcdGKOdOSKSfKfbAYETdhPAdBZbfG-d;Сергею;Поздравляю с победой в конкурсе! Сот ваш приз - RawZebra;icon@gift;Monsters/Monster_knife@1
+ContestWinner;PCOXVFcdGKOdOSKSfKfbAYETdhPAdBZbfG;Сергею;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;Monsters/Monster_knife@1
 ContestWinner2;QUORZAdZJWCCQPIdDTgdEdDEEbVZaOgEEEeQ;Сергею;Поздравляю с победой в конкурсе! Сот ваш приз - RawZebra;icon@gift;Monsters/Monster_knife@1
 
 
