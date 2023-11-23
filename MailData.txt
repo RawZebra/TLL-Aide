@@ -17,6 +17,8 @@ Fire;WFdOffBETLROGSZPJGmYOMLMadTOYGOTBANFcaY;Para FirePlayer;Hey, toma aqui uns 
 
 patch2;everyone;New Update (0.9);Hey there- we've added a new update, bringing new paths to Candy Island and adding some quality of life features. If you haven't yet, download the new update on our website at https://sites.google.com/view/msm-tll/download to play! As well, due to some tweaking of the game, a few people's T-Roxes on Noramba Desert became voidcorns. Please help yourselves to a free T-Rox as compensation (youll need to open this mail message on Desert to claim it!) Happy Monstering!;icon@newspaper;diamonds@25;Monsters/Monster_trox@1
 
+feastember;BHGDaFaXYCYJNOXUKSBUUZGZAUa;Happy Feastember!;Hey everyone! Feastember is upon us, and thus it's the perfect time to express how grateful we are for all of our players, and the massive amount of support and kind words we've recieved from the community. We couldn't do this without all of you, and rest assured that there will be more surprises around the bend! In the meantime, have a good time with your families (even if you don't celebrate thanksgiving) and take these fun goodies!;icon@thx;diamonds@75;stars@100;foodB@500;ITM_grain@15
+
 mpg;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for MPG;Hiya there! Welcome to MSM:TLL- its a pleasure to have you playing! Here's some fun treats to make your playing of the game a little easier (and within video length). Good luck! - Azu and Raw;icon@bow;diamonds@250000;stars@250;foodB@500000;coins@100000000;Vortex@100;Monsters/Monster_scaratar@1
 
 
