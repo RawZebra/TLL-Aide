@@ -33,3 +33,4 @@ ContestWinner_new_1;OOBbPKKdSIGedERdDGODbeBJeGQJNcJf;Захар;Поздравл
 ContestWinner_new_1;FTHSKSRQLHJXBRBIDJVEUSOT;Тиаква;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_ffydill@1
 
 
+reset;NRESTNNTJBSBEASBJOKAJI;Paint_Pong 2;Pon - RawZebra;icon@gift;diamonds@9900
