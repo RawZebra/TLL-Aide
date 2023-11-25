@@ -32,6 +32,8 @@ MSMContent;VKAWWOIDPWNhQRTChMaSWVhKhJRALeZJAM;To MSMContent;I hope you are havin
 
 Evolayersen;VCKJTFGAQJRJTHQJDCLBWGR;To Evolayersen;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@10000;Monsters/Monster_knife@1
 
+Gnarlsguy;QUCYONOTIRZMVADUQDKZXQPUBZ;To Knurvingarls;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@10000;Monsters/Monster_knife@1
+
 
 
 ContestWinner_new_1;NPPFUBRINgaDUggLANhlXQaVVSDMQHGilkliXT;paffosovich;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_punkleton@1
