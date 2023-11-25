@@ -26,7 +26,7 @@ mpg;HaQmgBkVMLKMfIfWLDNIDZfNWVkalKGEORDEgQg;A Gift for MPG;Hiya there! Welcome t
 
 ThatOneBean;VQTeZOeCMQgHKaZeJVLMDgPYMIOQfVWdS;To That One Bean;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;stars@600
 
-NathanGamesYT2;DPCLFNJAAOTILQEBPKEO;To NathanGames YT 2;I hope you are having fun! Here are some <color=purple>Vortexes</color> - RawZebra;icon@present;diamonds@1000;Vortex=30
+NathanGamesYT2;DPCLFNJAAOTILQEBPKEO;To NathanGames YT 2;I hope you are having fun! Here are some <color=purple>Vortexes</color> - RawZebra;icon@present;diamonds@1000;Vortex@30
 
 MSMContent;VKAWWOIDPWNhQRTChMaSWVhKhJRALeZJAM;To MSMContent;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;Monsters/Monster_pango@1
 
