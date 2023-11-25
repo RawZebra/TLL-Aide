@@ -32,7 +32,7 @@ MSMContent;VKAWWOIDPWNhQRTChMaSWVhKhJRALeZJAM;To MSMContent;I hope you are havin
 
 Evolayersen;VCKJTFGAQJRJTHQJDCLBWGR;To Evolayersen;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@10000;Monsters/Monster_knife@1
 
-Gnarlsguy;QUCYONOTIRZMVADUQDKZXQPUBZ;To Knurvingarls;I hope you are having fun! Here are some goods - RawZebra;icon@gift;diamonds@1000;Monsters/Monster_knife@1
+Gnarlsguy;QUCYONOTIRZMVADUQDKZXQPUBZ;To Knurvingarls;I hope you are having fun! Here are some goods.\n Breed Cybop with Handmond to get Whimstlop! - RawZebra;icon@gift;diamonds@1000;Monsters/Monster_cybop@1
 
 
 
