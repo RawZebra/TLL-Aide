@@ -37,7 +37,8 @@ Evolayersen;VCKJTFGAQJRJTHQJDCLBWGR;To Evolayersen;I hope you are having fun! He
 
 Gnarlsguy;QUCYONOTIRZMVADUQDKZXQPUBZ;To Knurvingarls;I hope you are having fun! Here are some goods.\n Breed Cybop with Handmond to get Whimstlop! - RawZebra;icon@gift;diamonds@1000;Monsters/Monster_cybop@1
 
-ppopasa2ddd;MLIOKLOGRQRIOPQFKPEB;fghfhk;fghjfhjfghj;icon@present;diamonds@9999
+ppopasa2ddd;UeQeBCPMOHUNNIVhHNhFZGJGINbeWIOICAD;fghfhk;fghjfhjfghj;icon@present;diamonds@1000
+
 
 ContestWinner_new_1;NPPFUBRINgaDUggLANhlXQaVVSDMQHGilkliXT;paffosovich;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_punkleton@1
 ContestWinner_new_1;TLRQGNSPOEOGQKJCQEBF;Тимур;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_schmoochle@1
