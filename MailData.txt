@@ -47,6 +47,7 @@ ppopasa2ddd;UeQeBCPMOHUNNIVhHNhFZGJGINbeWIOICAD;fghfhk;fghjfhjfghj;icon@present;
 
 stealDiamonds;YHHPHJXDPfQJUefVJHYcaUEUWUQGbCEf;No more diamonds for you!;Muhhahahahahahahah;icon@zebra;diamonds@-5
 
+PurePlays;YVBYbBMXAGbUJHBBcZMFcaYXTUFRNF;To Pure Plays;I hope you are having fun! Here are some goods. - RawZebra;icon@present;diamonds@7000;foodB@50000
 
 ContestWinner_new_2;OOBbPKKdSIGedERdDGODbeBJeGQJNcJf;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
 ContestWinner_new_2;eLODgigiiJJPZGegRIHMBXHDfEKTFOPCcQNNW;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
