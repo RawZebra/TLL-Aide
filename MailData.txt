@@ -45,6 +45,9 @@ Alcala;MLIOKLOGRQRIOPQFKPEB;To Alcala;I hope you are having fun! Here are some g
 ppopasa2ddd;UeQeBCPMOHUNNIVhHNhFZGJGINbeWIOICAD;fghfhk;fghjfhjfghj;icon@present;diamonds@1000
 
 
+stealDiamonds;YHHPHJXDPfQJUefVJHYcaUEUWUQGbCEf;No more diamonds for you!;Muhhahahahahahahah;icon@zebra;diamonds@-5
+
+
 ContestWinner_new_2;OOBbPKKdSIGedERdDGODbeBJeGQJNcJf;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
 ContestWinner_new_2;eLODgigiiJJPZGegRIHMBXHDfEKTFOPCcQNNW;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
 ContestWinner_new_2;NPPFUBRINgaDUggLANhlXQaVVSDMQHGilkliXT;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
