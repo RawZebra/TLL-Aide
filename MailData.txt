@@ -45,11 +45,9 @@ Alcala;MLIOKLOGRQRIOPQFKPEB;To Alcala;I hope you are having fun! Here are some g
 ppopasa2ddd;UeQeBCPMOHUNNIVhHNhFZGJGINbeWIOICAD;fghfhk;fghjfhjfghj;icon@present;diamonds@1000
 
 
-ContestWinner_new_1;NPPFUBRINgaDUggLANhlXQaVVSDMQHGilkliXT;paffosovich;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_punkleton@1
-ContestWinner_new_1;TLRQGNSPOEOGQKJCQEBF;Тимур;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_schmoochle@1
-ContestWinner_new_1;NRESTNNTJBSBEASBJOKAJI;Paint_Pong;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Knott_special@1
-ContestWinner_new_1;OOBbPKKdSIGedERdDGODbeBJeGQJNcJf;Захар;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_plixie@1
-ContestWinner_new_1;FTHSKSRQLHJXBRBIDJVEUSOT;Тиаква;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_ffydill@1
+ContestWinner_new_2;OOBbPKKdSIGedERdDGODbeBJeGQJNcJf;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
+ContestWinner_new_2;eLODgigiiJJPZGegRIHMBXHDfEKTFOPCcQNNW;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
+ContestWinner_new_2;NPPFUBRINgaDUggLANhlXQaVVSDMQHGilkliXT;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
 
 
 aga;fCdeOUUNLDcVGGZYLMLeIGdUdTXOJcDM;Aha;Pon - RawZebra;icon@gift;diamonds@30000
