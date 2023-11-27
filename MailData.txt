@@ -54,6 +54,8 @@ ContestWinner_new_2;OOBbPKKdSIGedERdDGODbeBJeGQJNcJf;Победитель Jobo �
 ContestWinner_new_2;eLODgigiiJJPZGegRIHMBXHDfEKTFOPCcQNNW;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
 ContestWinner_new_2;NPPFUBRINgaDUggLANhlXQaVVSDMQHGilkliXT;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
 
+twat1;UIRRIBNYPJPUCTTVYLQDHAWFD;kys;speak up;url@https://cdn.discordapp.com/attachments/877304946842812446/1178494035288141925/Screenshot_20231012_224019_YouTube.png;diamonds@100
+
 MazzTom;ADJOIGRMQSKJJHHSRBJII;To Mazz Tom;Aboba - RawZebra;icon@present;diamonds@10000
 
 aga;fCdeOUUNLDcVGGZYLMLeIGdUdTXOJcDM;Aha;Pon - RawZebra;icon@gift;diamonds@30000
