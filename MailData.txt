@@ -11,7 +11,7 @@ ToVizgemuAgain;HeBkdfYVemBClGRKQfmINPYfAXRBTYZbPhRIlZH;Для Визгему II;
 
 PedroGuntly;DOMFZJGGCMeeTMeSbVfMKZMGKTXHTMYA;Para Pedro;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
-Kaww;PeLGVTPgHNaHPHeIilDLccSNdKkceMZPZVBKQKc;Para Kaww;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
+Kaww2;PeLGVTPgHNaHPHeIilDLccSNdKkceMZPZVBKQKc;Para Kaww;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
 Fire;WFdOffBETLROGSZPJGmYOMLMadTOYGOTBANFcaY;Para FirePlayer;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
