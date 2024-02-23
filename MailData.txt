@@ -11,8 +11,6 @@ ToVizgemuAgain;HeBkdfYVemBClGRKQfmINPYfAXRBTYZbPhRIlZH;Для Визгему II;
 
 PedroGuntly;DOMFZJGGCMeeTMeSbVfMKZMGKTXHTMYA;Para Pedro;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
-Kaww2;PeLGVTPgHNaHPHeIilDLccSNdKkceMZPZVBKQKc;Para Kaww;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
-
 Fire;WFdOffBETLROGSZPJGmYOMLMadTOYGOTBANFcaY;Para FirePlayer;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
 
 patch2;everyone;New Update (0.9);Hey there- we've added a new update, bringing new paths to Candy Island and adding some quality of life features. If you haven't yet, download the new update on our website at https://sites.google.com/view/msm-tll/download to play! As well, due to some tweaking of the game, a few people's T-Roxes on Noramba Desert became voidcorns. Please help yourselves to a free T-Rox as compensation (youll need to open this mail message on Desert to claim it!) Happy Monstering!;icon@newspaper;diamonds@25;Monsters/Monster_trox@1
@@ -53,8 +51,6 @@ PurePlays;YVBYbBMXAGbUJHBBcZMFcaYXTUFRNF;To Pure Plays;I hope you are having fun
 ContestWinner_new_2;OOBbPKKdSIGedERdDGODbeBJeGQJNcJf;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
 ContestWinner_new_2;eLODgigiiJJPZGegRIHMBXHDfEKTFOPCcQNNW;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
 ContestWinner_new_2;NPPFUBRINgaDUggLANhlXQaVVSDMQHGilkliXT;Победитель Jobo конкурса!;Поздравляю с победой в конкурсе! Вот ваш приз - RawZebra;icon@gift;diamonds@100;Monsters/Monster_jobo@1
-
-twat1;UIRRIBNYPJPUCTTVYLQDHAWFD;kys;speak up;url@https://cdn.discordapp.com/attachments/877304946842812446/1178494035288141925/Screenshot_20231012_224019_YouTube.png;diamonds@100
 
 MazzTom;ADJOIGRMQSKJJHHSRBJII;To Mazz Tom;Aboba - RawZebra;icon@present;diamonds@10000
 
