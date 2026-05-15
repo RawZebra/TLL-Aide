@@ -1,10 +1,5 @@
-intro3;everyone;Welcome to MSM:TLL!;Hey there! Welcome to MSM:TLL, a My Singing Monsters Fangame! Here are some goodies to get you started, enjoy! For some basic info on the game's core mechanics, visit the TLL QUICKSTART page on the game's website (https://sites.google.com/view/msm-tll/home/tll-quickstart) through the button below!Happy Monstering, from Azuran and Raw;icon@new;diamonds@100;foodB@500;URL_LINK@Visit Tutorial Site@https://sites.google.com/view/msm-tll/home/tll-quickstart
 
 Rock;WbYKZGXBNOVaVUgdgUSgZBDSHVTdCXOEOKYhk;Happy Birthday!;Happy Birthday jackotrap!;icon@new;diamonds@200;stars@500;foodB@5000;Log@50
-
-test_hahahhaha;QUORZAdZJWCCQPIdDTgdEdDEEbVZaOgEEEeQ;Test;test;icon@gift;URL_LINK@Visit Website@https://sites.google.com/d/1M2TR3BxDCTo1zwtevyPwCtoQCrfSKBek/p/1pVRAFCf5RB5fMUdTxMjbDvu63_z5hR2b/edit
-
-ToVizgemuAgain;HeBkdfYVemBClGRKQfmINPYfAXRBTYZbPhRIlZH;Для Визгему II;Привет, Визгему!\nНадеюсь, бутерброды того стоили, ха-ха!\nЯ отправил вам немного игровой валюты в качестве компенсации. Может быть, она поможет восстановить часть потерянного прогресса. В следующий раз будьте осторожнее с бутербродами и пюрешкой!\nУдачи в восстановлении и приятной игры!\n\nRaw Zebra\nП.С. Вашу обсерваторию уже можно активировать.\n\n;url@https://yt3.googleusercontent.com/hTM6KvOhK8tLYDffri_lim393HpvykG407UjhmGfEnk_YZ8AgVE-CBLZ_etibTRe4PN-JRNq=s176-c-k-c0x00ffffff-no-rj;diamonds@70;Relic@40;stars@400;Monsters/Monster_jamboree_undof@10
 
 
 PedroGuntly;DOMFZJGGCMeeTMeSbVfMKZMGKTXHTMYA;Para Pedro;Hey, toma aqui uns diamantes!\nE boa sorte com o jogo.\n-Raw Zebra;icon@gift;diamonds@10000;stars@550;Vortex@20
